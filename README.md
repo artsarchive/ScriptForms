@@ -3,3 +3,7 @@ Um arquivo capaz de automatizar o preenchimento de Formulários, buscando gerar 
 
 ## Biblioteca usada: 
 - Selenium.
+
+## Linguagem: 
+- Python.
+
